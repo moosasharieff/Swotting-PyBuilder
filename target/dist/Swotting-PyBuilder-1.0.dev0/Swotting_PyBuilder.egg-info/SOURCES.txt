@@ -1,0 +1,9 @@
+helloworld.py
+setup.py
+Swotting_PyBuilder.egg-info/PKG-INFO
+Swotting_PyBuilder.egg-info/SOURCES.txt
+Swotting_PyBuilder.egg-info/dependency_links.txt
+Swotting_PyBuilder.egg-info/namespace_packages.txt
+Swotting_PyBuilder.egg-info/top_level.txt
+Swotting_PyBuilder.egg-info/zip-safe
+scripts/hello-pybuilder.py
