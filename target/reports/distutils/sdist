@@ -1,0 +1,34 @@
+running clean
+'build/lib' does not exist -- can't clean it
+'build/bdist.macosx-10.9-universal2' does not exist -- can't clean it
+'build/scripts-3.10' does not exist -- can't clean it
+running sdist
+running egg_info
+creating Swotting_PyBuilder.egg-info
+writing Swotting_PyBuilder.egg-info/PKG-INFO
+writing dependency_links to Swotting_PyBuilder.egg-info/dependency_links.txt
+writing namespace_packages to Swotting_PyBuilder.egg-info/namespace_packages.txt
+writing top-level names to Swotting_PyBuilder.egg-info/top_level.txt
+writing manifest file 'Swotting_PyBuilder.egg-info/SOURCES.txt'
+reading manifest file 'Swotting_PyBuilder.egg-info/SOURCES.txt'
+writing manifest file 'Swotting_PyBuilder.egg-info/SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+creating Swotting-PyBuilder-1.0.dev0
+creating Swotting-PyBuilder-1.0.dev0/Swotting_PyBuilder.egg-info
+creating Swotting-PyBuilder-1.0.dev0/scripts
+copying files to Swotting-PyBuilder-1.0.dev0...
+copying helloworld.py -> Swotting-PyBuilder-1.0.dev0
+copying setup.py -> Swotting-PyBuilder-1.0.dev0
+copying Swotting_PyBuilder.egg-info/PKG-INFO -> Swotting-PyBuilder-1.0.dev0/Swotting_PyBuilder.egg-info
+copying Swotting_PyBuilder.egg-info/SOURCES.txt -> Swotting-PyBuilder-1.0.dev0/Swotting_PyBuilder.egg-info
+copying Swotting_PyBuilder.egg-info/dependency_links.txt -> Swotting-PyBuilder-1.0.dev0/Swotting_PyBuilder.egg-info
+copying Swotting_PyBuilder.egg-info/namespace_packages.txt -> Swotting-PyBuilder-1.0.dev0/Swotting_PyBuilder.egg-info
+copying Swotting_PyBuilder.egg-info/top_level.txt -> Swotting-PyBuilder-1.0.dev0/Swotting_PyBuilder.egg-info
+copying Swotting_PyBuilder.egg-info/zip-safe -> Swotting-PyBuilder-1.0.dev0/Swotting_PyBuilder.egg-info
+copying scripts/hello-pybuilder.py -> Swotting-PyBuilder-1.0.dev0/scripts
+Writing Swotting-PyBuilder-1.0.dev0/setup.cfg
+creating dist
+Creating tar archive
+removing 'Swotting-PyBuilder-1.0.dev0' (and everything under it)
